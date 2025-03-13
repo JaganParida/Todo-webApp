@@ -1,16 +1,51 @@
-# 🚀 To-Do App
+# TodoApp
 
-A sleek, interactive, and super simple To-Do app built with React.js, HTML, CSS, and JavaScript. Stay organized, track tasks, and get things done efficiently! ✅
+## Overview
 
-# ✨ Features
+TodoApp is a simple yet efficient task management application built using **React.js**, **HTML**, and **CSS**. It allows users to add, delete, and mark tasks as completed, providing an intuitive and responsive user interface.
 
-➕ Add Task – Quickly add new tasks to your list.<br>
-❌ Delete Task – Remove unwanted tasks in a click.<br>
-✔️ Mark as Done – Strike off completed tasks.<br>
-🎨 Responsive UI – Looks great on all devices.<br>
+## Features
 
-# 🛠️ Technologies Used
+- Add new tasks effortlessly
+- Mark tasks as completed or pending
+- Delete tasks when no longer needed
+- User-friendly and minimalistic design
+- Fully responsive for seamless experience on all devices
 
-1. HTML – Provides the structure.<br>
-2. CSS – Makes it look amazing.<br>
-3. JavaScript (React.js) – Brings everything to life dynamically.<br>
+## Technologies Used
+
+- **React.js** for building a dynamic UI
+- **HTML5 & CSS3** for structure and styling
+
+## Live Demo
+
+View the live version of TodoApp here: **[TodoApp Live](https://jaganparida.github.io/TODO_APP/)**
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/jaganparida/TODO_APP.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd TODO_APP
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements.
+
+---
+
+Made with ❤️ by **Jagan Parida**
