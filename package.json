@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://JaganParida.github.io/TODO_APP",
+  "homepage": "https://jaganparida.github.io/Todo-webApp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
