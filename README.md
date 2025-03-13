@@ -19,7 +19,7 @@ TodoApp is a simple yet efficient task management application built using **Reac
 
 ## Live Demo
 
-View the live version of TodoApp here: **[TodoApp Live](https://jaganparida.github.io/TODO_APP/)**
+View the live version of TodoApp here: **[TodoApp Live](https://jaganparida.github.io/Todo-webApp/)**
 
 ## Installation
 
